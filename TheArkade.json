@@ -1,6 +1,6 @@
 {
-	"Name": "TheArkade",
-	"Version": 1738207442,
+	"Name": "The Arkade",
+	"Version": 1739867338,
 	"MaxPerkRepetition": 1,
 	"GlobalNotes": "",
 	"Tiers": [
@@ -24,6 +24,7 @@
 				"25",
 				"60",
 				"28",
+				"273",
 				"33",
 				"43",
 				"267",
@@ -966,7 +967,7 @@
 			"KillerNotes": "",
 			"IsDisabled": false,
 			"Map": [
-				"3"
+				"33"
 			],
 			"BalanceTiers": [
 				0
@@ -1553,18 +1554,12 @@
 				"220",
 				"225"
 			],
-			"KillerComboPerkBans": [
-				[
-					"160",
-					"210"
-				]
-			],
+			"KillerComboPerkBans": [],
 			"SurvivorIndvPerkBans": [
 				"10",
 				"38",
 				"58",
 				"63",
-				"64",
 				"67"
 			],
 			"SurvivorComboPerkBans": [
@@ -1920,6 +1915,7 @@
 				"11",
 				"21",
 				"246",
+				"27",
 				"34",
 				"36",
 				"38",
@@ -1991,7 +1987,7 @@
 			"KillerNotes": "2x Firecracker",
 			"IsDisabled": false,
 			"Map": [
-				"6"
+				"8"
 			],
 			"BalanceTiers": [
 				0
@@ -3347,7 +3343,7 @@
 			"KillerNotes": "You are allowed 2x Firecrackers",
 			"IsDisabled": false,
 			"Map": [
-				"14"
+				"42"
 			],
 			"BalanceTiers": [
 				0
