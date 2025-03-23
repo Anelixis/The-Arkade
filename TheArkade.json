@@ -1,6 +1,6 @@
 {
 	"Name": "The Arkade",
-	"Version": 1742591512,
+	"Version": 1742744810,
 	"MaxPerkRepetition": 1,
 	"GlobalNotes": "",
 	"Tiers": [
@@ -305,7 +305,6 @@
 			},
 			"SurvivorOfferings": [
 				0,
-				2,
 				5,
 				6
 			],
