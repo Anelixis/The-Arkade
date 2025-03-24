@@ -1,6 +1,6 @@
 {
 	"Name": "The Arkade",
-	"Version": 1742744853,
+	"Version": 1742827360,
 	"MaxPerkRepetition": 1,
 	"GlobalNotes": "",
 	"Tiers": [
@@ -226,7 +226,7 @@
 		},
 		{
 			"Name": "The Wraith",
-			"KillerNotes": "2x Firecracker",
+			"KillerNotes": "You are allowed 2x Firecracker items.",
 			"IsDisabled": false,
 			"Map": [
 				"34"
@@ -314,7 +314,7 @@
 		},
 		{
 			"Name": "The Hillbilly",
-			"KillerNotes": "2x Vigos Shroud",
+			"KillerNotes": "Required 2x Vigo's Shroud offerings.",
 			"IsDisabled": false,
 			"Map": [
 				"7"
@@ -405,7 +405,7 @@
 		},
 		{
 			"Name": "The Nurse",
-			"KillerNotes": "2x Vigo's Shroud",
+			"KillerNotes": "Required 2x Vigo's Shroud offerings.",
 			"IsDisabled": false,
 			"Map": [
 				"22"
@@ -432,7 +432,6 @@
 			],
 			"KillerComboPerkBans": [
 				[
-					"132",
 					"160",
 					"210"
 				]
@@ -447,23 +446,17 @@
 			"SurvivorWhitelistedComboPerks": [],
 			"KillerWhitelistedPerks": [],
 			"KillerWhitelistedComboPerks": [],
-			"AddonTiersBanned": [],
+			"AddonTiersBanned": [
+				0,
+				3,
+				4
+			],
 			"IndividualAddonBans": [
-				60,
-				61,
-				62,
-				63,
 				65,
 				68,
 				69,
 				70,
-				73,
-				74,
-				75,
-				76,
-				77,
-				78,
-				79
+				73
 			],
 			"ItemWhitelist": [
 				0,
@@ -509,7 +502,7 @@
 		},
 		{
 			"Name": "The Shape",
-			"KillerNotes": "",
+			"KillerNotes": " The Shape has ZERO perk bans or restrictions (individual or combined). This overrides General Balancing (Ex: NOED + NWO can be used; PWYF, Hubris can be used; etc.). However, the “NOED Rule” still applies.",
 			"IsDisabled": false,
 			"Map": [
 				"20"
@@ -817,26 +810,18 @@
 					"226"
 				]
 			],
-			"AddonTiersBanned": [],
+			"AddonTiersBanned": [
+				1,
+				2,
+				4
+			],
 			"IndividualAddonBans": [
 				80,
 				81,
 				83,
-				84,
-				85,
-				86,
-				87,
-				88,
-				89,
-				90,
-				91,
-				92,
-				93,
 				94,
 				95,
-				97,
-				98,
-				99
+				97
 			],
 			"ItemWhitelist": [],
 			"AddonWhitelist": {
@@ -1103,20 +1088,17 @@
 			"SurvivorWhitelistedComboPerks": [],
 			"KillerWhitelistedPerks": [],
 			"KillerWhitelistedComboPerks": [],
-			"AddonTiersBanned": [],
+			"AddonTiersBanned": [
+				3,
+				4
+			],
 			"IndividualAddonBans": [
 				141,
 				143,
 				144,
 				148,
 				149,
-				152,
-				153,
-				154,
-				155,
-				156,
-				157,
-				158
+				152
 			],
 			"ItemWhitelist": [
 				0,
@@ -1533,7 +1515,7 @@
 		},
 		{
 			"Name": "The Spirit",
-			"KillerNotes": "2x Vigos Shroud required",
+			"KillerNotes": "Required 2x Vigo's Shroud offerings.",
 			"IsDisabled": false,
 			"Map": [
 				"0"
@@ -1746,12 +1728,11 @@
 			"SurvivorWhitelistedComboPerks": [],
 			"KillerWhitelistedPerks": [],
 			"KillerWhitelistedComboPerks": [],
-			"AddonTiersBanned": [],
+			"AddonTiersBanned": [
+				0,
+				4
+			],
 			"IndividualAddonBans": [
-				279,
-				280,
-				281,
-				282,
 				283,
 				284,
 				285,
@@ -1762,9 +1743,7 @@
 				291,
 				293,
 				294,
-				295,
-				297,
-				298
+				295
 			],
 			"ItemWhitelist": [
 				0,
@@ -1985,7 +1964,7 @@
 		},
 		{
 			"Name": "The Oni",
-			"KillerNotes": "2x Firecracker",
+			"KillerNotes": "You are allowed 2x Firecracker items.",
 			"IsDisabled": false,
 			"Map": [
 				"8"
@@ -2023,25 +2002,14 @@
 			"SurvivorWhitelistedComboPerks": [],
 			"KillerWhitelistedPerks": [],
 			"KillerWhitelistedComboPerks": [],
-			"AddonTiersBanned": [],
+			"AddonTiersBanned": [
+				0,
+				1,
+				2,
+				4
+			],
 			"IndividualAddonBans": [
-				339,
-				340,
-				341,
-				342,
-				343,
-				344,
-				345,
-				346,
-				347,
-				348,
-				349,
-				350,
-				351,
-				352,
-				353,
-				357,
-				358
+				353
 			],
 			"ItemWhitelist": [
 				0,
@@ -2255,7 +2223,7 @@
 		},
 		{
 			"Name": "The Blight",
-			"KillerNotes": "",
+			"KillerNotes": "Required 2x Vigo's Shroud offerings.",
 			"IsDisabled": false,
 			"Map": [
 				"43"
@@ -2996,7 +2964,7 @@
 		},
 		{
 			"Name": "The Mastermind",
-			"KillerNotes": "You are allowed 3x Firecracker",
+			"KillerNotes": "You are allowed 3x Firecracker items.",
 			"IsDisabled": false,
 			"Map": [
 				"0"
@@ -3260,7 +3228,7 @@
 		},
 		{
 			"Name": "The Singularity",
-			"KillerNotes": "You are allowed 2x Firecracker",
+			"KillerNotes": "You are allowed 2x Firecracker items.",
 			"IsDisabled": false,
 			"Map": [
 				"18"
@@ -3342,7 +3310,7 @@
 		},
 		{
 			"Name": "The Xenomorph",
-			"KillerNotes": "You are allowed 2x Firecrackers",
+			"KillerNotes": "You are allowed 2x Firecracker items.",
 			"IsDisabled": false,
 			"Map": [
 				"42"
@@ -3384,10 +3352,10 @@
 			"SurvivorWhitelistedComboPerks": [],
 			"KillerWhitelistedPerks": [],
 			"KillerWhitelistedComboPerks": [],
-			"AddonTiersBanned": [],
+			"AddonTiersBanned": [
+				4
+			],
 			"IndividualAddonBans": [
-				658,
-				657,
 				654
 			],
 			"ItemWhitelist": [
@@ -3615,7 +3583,7 @@
 		},
 		{
 			"Name": "The Lich",
-			"KillerNotes": "Survivors CANNOT open chests versus The Lich despite the unique mechanic. If a survivor is caught, the offending team will suffer a -2 penalty. If any chest item is picked up, it will result in a set forfeit.",
+			"KillerNotes": "Survivors CANNOT open The Lich’s unique chests. If a survivor is caught doing this, the offending team will suffer the same penalty as opening a normal chest. Picking up a chest item results in a set forfeit.",
 			"IsDisabled": false,
 			"Map": [
 				"33"
