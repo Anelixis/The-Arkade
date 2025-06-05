@@ -1,6 +1,6 @@
 {
 	"Name": "The Arkade",
-	"Version": 1742827360,
+	"Version": 1749084536,
 	"MaxPerkRepetition": 1,
 	"GlobalNotes": "",
 	"Tiers": [
@@ -16,7 +16,6 @@
 				"16",
 				"17",
 				"18",
-				"247",
 				"19",
 				"20",
 				"22",
@@ -25,7 +24,9 @@
 				"28",
 				"273",
 				"33",
+				"279",
 				"43",
+				"280",
 				"267",
 				"46",
 				"261",
@@ -46,12 +47,12 @@
 				"84",
 				"86",
 				"88",
+				"281",
 				"90",
 				"98",
 				"99",
 				"100",
 				"275",
-				"108",
 				"110",
 				"263",
 				"113",
@@ -66,7 +67,6 @@
 				"130"
 			],
 			"KillerIndvPerkBans": [
-				"133",
 				"270",
 				"134",
 				"146",
@@ -75,17 +75,19 @@
 				"150",
 				"151",
 				"155",
-				"165",
 				"244",
 				"167",
 				"171",
 				"172",
 				"174",
 				"175",
+				"277",
 				"178",
+				"264",
 				"186",
 				"195",
 				"196",
+				"278",
 				"205",
 				"209",
 				"211",
@@ -93,6 +95,7 @@
 				"227",
 				"235",
 				"238",
+				"249",
 				"242"
 			],
 			"SurvivorComboPerkBans": [
@@ -115,20 +118,16 @@
 					"212"
 				],
 				[
-					"255",
-					"159"
-				],
-				[
 					"159",
 					"226"
 				],
 				[
-					"177",
-					"204"
-				],
-				[
 					"170",
 					"220"
+				],
+				[
+					"177",
+					"204"
 				]
 			]
 		}
@@ -238,30 +237,29 @@
 				0
 			],
 			"AntiFacecampPermitted": false,
-			"KillerIndvPerkBans": [
-				"157"
-			],
+			"KillerIndvPerkBans": [],
 			"KillerComboPerkBans": [],
 			"SurvivorIndvPerkBans": [
+				"8",
 				"11",
 				"21",
-				"246",
 				"34",
 				"36",
 				"37",
 				"38",
 				"39",
-				"44",
 				"50",
 				"54",
 				"57",
 				"61",
+				"65",
 				"76",
 				"85",
 				"89",
 				"96",
 				"92",
 				"102",
+				"112",
 				"121",
 				"127"
 			],
@@ -317,7 +315,7 @@
 			"KillerNotes": "Required 2x Vigo's Shroud offerings.",
 			"IsDisabled": false,
 			"Map": [
-				"7"
+				"46"
 			],
 			"BalanceTiers": [
 				0
@@ -334,6 +332,7 @@
 				"169",
 				"170",
 				"177",
+				"183",
 				"184",
 				"264",
 				"201",
@@ -342,20 +341,19 @@
 				"220",
 				"225"
 			],
-			"KillerComboPerkBans": [
-				[
-					"160",
-					"210"
-				]
+			"KillerComboPerkBans": [],
+			"SurvivorIndvPerkBans": [
+				"38"
 			],
-			"SurvivorIndvPerkBans": [],
 			"SurvivorComboPerkBans": [],
 			"SurvivorWhitelistedPerks": [],
 			"SurvivorWhitelistedComboPerks": [],
 			"KillerWhitelistedPerks": [],
 			"KillerWhitelistedComboPerks": [],
 			"AddonTiersBanned": [],
-			"IndividualAddonBans": [],
+			"IndividualAddonBans": [
+				54
+			],
 			"ItemWhitelist": [
 				0,
 				5,
@@ -973,6 +971,7 @@
 				"27",
 				"34",
 				"36",
+				"37",
 				"38",
 				"39",
 				"44",
@@ -988,6 +987,7 @@
 				"96",
 				"92",
 				"102",
+				"107",
 				"109",
 				"112",
 				"121",
@@ -1057,8 +1057,7 @@
 			"AntiFacecampPermitted": false,
 			"KillerIndvPerkBans": [
 				"163",
-				"191",
-				"199"
+				"191"
 			],
 			"KillerComboPerkBans": [],
 			"SurvivorIndvPerkBans": [
@@ -1528,7 +1527,6 @@
 			],
 			"AntiFacecampPermitted": false,
 			"KillerIndvPerkBans": [
-				"157",
 				"163",
 				"169",
 				"177",
@@ -1715,10 +1713,12 @@
 				"21",
 				"34",
 				"36",
+				"37",
 				"38",
 				"57",
 				"61",
 				"76",
+				"95",
 				"96",
 				"92",
 				"121"
@@ -1798,9 +1798,7 @@
 				0
 			],
 			"AntiFacecampPermitted": false,
-			"KillerIndvPerkBans": [
-				"157"
-			],
+			"KillerIndvPerkBans": [],
 			"KillerComboPerkBans": [],
 			"SurvivorIndvPerkBans": [
 				"8",
@@ -1879,7 +1877,7 @@
 			"KillerNotes": "",
 			"IsDisabled": false,
 			"Map": [
-				"13"
+				"5"
 			],
 			"BalanceTiers": [
 				0
@@ -1891,17 +1889,18 @@
 			"KillerIndvPerkBans": [],
 			"KillerComboPerkBans": [],
 			"SurvivorIndvPerkBans": [
-				"8",
 				"11",
 				"21",
 				"246",
 				"27",
 				"34",
 				"36",
+				"37",
 				"38",
 				"39",
 				"44",
 				"50",
+				"53",
 				"54",
 				"57",
 				"61",
@@ -1967,7 +1966,7 @@
 			"KillerNotes": "You are allowed 2x Firecracker items.",
 			"IsDisabled": false,
 			"Map": [
-				"8"
+				"20"
 			],
 			"BalanceTiers": [
 				0
@@ -1982,18 +1981,25 @@
 			"KillerComboPerkBans": [],
 			"SurvivorIndvPerkBans": [
 				"21",
+				"246",
+				"27",
 				"34",
 				"36",
+				"37",
 				"38",
+				"41",
 				"44",
 				"50",
 				"57",
 				"61",
+				"69",
 				"76",
 				"89",
 				"96",
 				"92",
 				"102",
+				"109",
+				"112",
 				"121",
 				"127"
 			],
@@ -2006,11 +2012,9 @@
 				0,
 				1,
 				2,
-				4
+				3
 			],
-			"IndividualAddonBans": [
-				353
-			],
+			"IndividualAddonBans": [],
 			"ItemWhitelist": [
 				0,
 				5
@@ -2079,7 +2083,6 @@
 				"54",
 				"57",
 				"69",
-				"70",
 				"89",
 				"96",
 				"92",
@@ -2226,7 +2229,7 @@
 			"KillerNotes": "Required 2x Vigo's Shroud offerings.",
 			"IsDisabled": false,
 			"Map": [
-				"43"
+				"46"
 			],
 			"BalanceTiers": [
 				0
@@ -2245,18 +2248,12 @@
 				"170",
 				"177",
 				"184",
-				"264",
 				"204",
 				"216",
 				"220",
 				"225"
 			],
-			"KillerComboPerkBans": [
-				[
-					"160",
-					"210"
-				]
-			],
+			"KillerComboPerkBans": [],
 			"SurvivorIndvPerkBans": [],
 			"SurvivorComboPerkBans": [],
 			"SurvivorWhitelistedPerks": [],
@@ -2640,9 +2637,7 @@
 			"AddonTiersBanned": [
 				4
 			],
-			"IndividualAddonBans": [
-				493
-			],
+			"IndividualAddonBans": [],
 			"ItemWhitelist": [
 				0,
 				5
@@ -2698,12 +2693,11 @@
 			"AntiFacecampPermitted": false,
 			"KillerIndvPerkBans": [
 				"136",
-				"157",
-				"163",
-				"201"
+				"163"
 			],
 			"KillerComboPerkBans": [],
 			"SurvivorIndvPerkBans": [
+				"8",
 				"21",
 				"34",
 				"36",
@@ -2711,6 +2705,7 @@
 				"39",
 				"44",
 				"50",
+				"53",
 				"57",
 				"61",
 				"76",
@@ -2872,7 +2867,7 @@
 			"KillerNotes": "",
 			"IsDisabled": false,
 			"Map": [
-				"32"
+				"33"
 			],
 			"BalanceTiers": [
 				0
@@ -2882,8 +2877,7 @@
 			],
 			"AntiFacecampPermitted": false,
 			"KillerIndvPerkBans": [
-				"157",
-				"184"
+				"157"
 			],
 			"KillerComboPerkBans": [],
 			"SurvivorIndvPerkBans": [
@@ -2907,9 +2901,12 @@
 				"97",
 				"92",
 				"102",
+				"107",
+				"109",
 				"111",
 				"112",
 				"121",
+				"125",
 				"126",
 				"127"
 			],
@@ -2922,7 +2919,8 @@
 				4
 			],
 			"IndividualAddonBans": [
-				554
+				554,
+				555
 			],
 			"ItemWhitelist": [
 				0,
@@ -2955,6 +2953,7 @@
 			},
 			"SurvivorOfferings": [
 				0,
+				2,
 				5,
 				6
 			],
@@ -2977,7 +2976,6 @@
 			],
 			"AntiFacecampPermitted": false,
 			"KillerIndvPerkBans": [
-				"157",
 				"163"
 			],
 			"KillerComboPerkBans": [],
@@ -2986,6 +2984,7 @@
 				"21",
 				"34",
 				"36",
+				"37",
 				"38",
 				"57",
 				"61",
@@ -2994,6 +2993,7 @@
 				"89",
 				"96",
 				"102",
+				"109",
 				"112",
 				"121",
 				"127"
@@ -3499,7 +3499,7 @@
 			"KillerNotes": "",
 			"IsDisabled": false,
 			"Map": [
-				"4"
+				"47"
 			],
 			"BalanceTiers": [
 				0
@@ -3510,12 +3510,11 @@
 			"AntiFacecampPermitted": false,
 			"KillerIndvPerkBans": [
 				"136",
-				"157",
-				"163",
-				"200"
+				"163"
 			],
 			"KillerComboPerkBans": [],
 			"SurvivorIndvPerkBans": [
+				"8",
 				"21",
 				"34",
 				"36",
@@ -3529,6 +3528,7 @@
 				"96",
 				"92",
 				"102",
+				"112",
 				"121"
 			],
 			"SurvivorComboPerkBans": [],
@@ -3728,6 +3728,54 @@
 		},
 		{
 			"Name": "The Houndmaster",
+			"KillerNotes": "",
+			"IsDisabled": false,
+			"Map": [
+				0
+			],
+			"BalanceTiers": [
+				0
+			],
+			"SurvivorBalanceTiers": [
+				0
+			],
+			"AntiFacecampPermitted": false,
+			"KillerIndvPerkBans": [],
+			"KillerComboPerkBans": [],
+			"SurvivorIndvPerkBans": [],
+			"SurvivorComboPerkBans": [],
+			"SurvivorWhitelistedPerks": [],
+			"SurvivorWhitelistedComboPerks": [],
+			"KillerWhitelistedPerks": [],
+			"KillerWhitelistedComboPerks": [],
+			"AddonTiersBanned": [],
+			"IndividualAddonBans": [],
+			"ItemWhitelist": [],
+			"AddonWhitelist": {
+				"Firecracker": {
+					"Addons": []
+				},
+				"Flashlight": {
+					"Addons": []
+				},
+				"Med-Kit": {
+					"Addons": []
+				},
+				"Toolbox": {
+					"Addons": []
+				},
+				"Key": {
+					"Addons": []
+				},
+				"Map": {
+					"Addons": []
+				}
+			},
+			"SurvivorOfferings": [],
+			"KillerOfferings": []
+		},
+		{
+			"Name": "The Ghoul",
 			"KillerNotes": "",
 			"IsDisabled": false,
 			"Map": [
