@@ -1,6 +1,6 @@
 {
 	"Name": "The Arkade",
-	"Version": 1749084536,
+	"Version": 1749243716,
 	"MaxPerkRepetition": 1,
 	"GlobalNotes": "",
 	"Tiers": [
@@ -225,7 +225,7 @@
 		},
 		{
 			"Name": "The Wraith",
-			"KillerNotes": "You are allowed 2x Firecracker items.",
+			"KillerNotes": "",
 			"IsDisabled": false,
 			"Map": [
 				"34"
@@ -1963,7 +1963,7 @@
 		},
 		{
 			"Name": "The Oni",
-			"KillerNotes": "You are allowed 2x Firecracker items.",
+			"KillerNotes": "",
 			"IsDisabled": false,
 			"Map": [
 				"20"
@@ -2011,10 +2011,14 @@
 			"AddonTiersBanned": [
 				0,
 				1,
-				2,
-				3
+				2
 			],
-			"IndividualAddonBans": [],
+			"IndividualAddonBans": [
+				353,
+				355,
+				356,
+				358
+			],
 			"ItemWhitelist": [
 				0,
 				5
@@ -2963,7 +2967,7 @@
 		},
 		{
 			"Name": "The Mastermind",
-			"KillerNotes": "You are allowed 3x Firecracker items.",
+			"KillerNotes": "",
 			"IsDisabled": false,
 			"Map": [
 				"0"
@@ -3228,7 +3232,7 @@
 		},
 		{
 			"Name": "The Singularity",
-			"KillerNotes": "You are allowed 2x Firecracker items.",
+			"KillerNotes": "",
 			"IsDisabled": false,
 			"Map": [
 				"18"
@@ -3310,7 +3314,7 @@
 		},
 		{
 			"Name": "The Xenomorph",
-			"KillerNotes": "You are allowed 2x Firecracker items.",
+			"KillerNotes": "",
 			"IsDisabled": false,
 			"Map": [
 				"42"
@@ -3776,6 +3780,54 @@
 		},
 		{
 			"Name": "The Ghoul",
+			"KillerNotes": "",
+			"IsDisabled": false,
+			"Map": [
+				0
+			],
+			"BalanceTiers": [
+				0
+			],
+			"SurvivorBalanceTiers": [
+				0
+			],
+			"AntiFacecampPermitted": false,
+			"KillerIndvPerkBans": [],
+			"KillerComboPerkBans": [],
+			"SurvivorIndvPerkBans": [],
+			"SurvivorComboPerkBans": [],
+			"SurvivorWhitelistedPerks": [],
+			"SurvivorWhitelistedComboPerks": [],
+			"KillerWhitelistedPerks": [],
+			"KillerWhitelistedComboPerks": [],
+			"AddonTiersBanned": [],
+			"IndividualAddonBans": [],
+			"ItemWhitelist": [],
+			"AddonWhitelist": {
+				"Firecracker": {
+					"Addons": []
+				},
+				"Flashlight": {
+					"Addons": []
+				},
+				"Med-Kit": {
+					"Addons": []
+				},
+				"Toolbox": {
+					"Addons": []
+				},
+				"Key": {
+					"Addons": []
+				},
+				"Map": {
+					"Addons": []
+				}
+			},
+			"SurvivorOfferings": [],
+			"KillerOfferings": []
+		},
+		{
+			"Name": "The Animatronic",
 			"KillerNotes": "",
 			"IsDisabled": false,
 			"Map": [
