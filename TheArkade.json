@@ -1,6 +1,6 @@
 {
 	"Name": "The Arkade",
-	"Version": 1749243716,
+	"Version": 1750015953,
 	"MaxPerkRepetition": 1,
 	"GlobalNotes": "",
 	"Tiers": [
@@ -1980,6 +1980,7 @@
 			],
 			"KillerComboPerkBans": [],
 			"SurvivorIndvPerkBans": [
+				"11",
 				"21",
 				"246",
 				"27",
@@ -1987,6 +1988,7 @@
 				"36",
 				"37",
 				"38",
+				"39",
 				"41",
 				"44",
 				"50",
@@ -2888,6 +2890,7 @@
 				"8",
 				"11",
 				"21",
+				"246",
 				"34",
 				"36",
 				"37",
