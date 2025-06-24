@@ -1,6 +1,6 @@
 {
 	"Name": "The Arkade",
-	"Version": 1750015953,
+	"Version": 1750797054,
 	"MaxPerkRepetition": 1,
 	"GlobalNotes": "",
 	"Tiers": [
@@ -89,6 +89,7 @@
 				"196",
 				"278",
 				"205",
+				"284",
 				"209",
 				"211",
 				"272",
@@ -128,6 +129,10 @@
 				[
 					"177",
 					"204"
+				],
+				[
+					"283",
+					"215"
 				]
 			]
 		}
@@ -216,11 +221,10 @@
 			"SurvivorOfferings": [
 				0,
 				2,
-				5,
-				6
+				5
 			],
 			"KillerOfferings": [
-				5
+				8
 			]
 		},
 		{
@@ -303,16 +307,15 @@
 			},
 			"SurvivorOfferings": [
 				0,
-				5,
-				6
+				5
 			],
 			"KillerOfferings": [
-				5
+				8
 			]
 		},
 		{
 			"Name": "The Hillbilly",
-			"KillerNotes": "Required 2x Vigo's Shroud offerings.",
+			"KillerNotes": "",
 			"IsDisabled": false,
 			"Map": [
 				"46"
@@ -395,7 +398,8 @@
 			"SurvivorOfferings": [
 				0,
 				2,
-				5
+				5,
+				6
 			],
 			"KillerOfferings": [
 				5
@@ -403,7 +407,7 @@
 		},
 		{
 			"Name": "The Nurse",
-			"KillerNotes": "Required 2x Vigo's Shroud offerings.",
+			"KillerNotes": "",
 			"IsDisabled": false,
 			"Map": [
 				"22"
@@ -495,7 +499,7 @@
 				5
 			],
 			"KillerOfferings": [
-				5
+				8
 			]
 		},
 		{
@@ -844,11 +848,10 @@
 			},
 			"SurvivorOfferings": [
 				0,
-				5,
-				6
+				5
 			],
 			"KillerOfferings": [
-				5
+				8
 			]
 		},
 		{
@@ -939,11 +942,10 @@
 			"SurvivorOfferings": [
 				0,
 				2,
-				5,
-				6
+				5
 			],
 			"KillerOfferings": [
-				5
+				8
 			]
 		},
 		{
@@ -1034,11 +1036,10 @@
 			"SurvivorOfferings": [
 				0,
 				2,
-				5,
-				6
+				5
 			],
 			"KillerOfferings": [
-				5
+				8
 			]
 		},
 		{
@@ -1131,11 +1132,10 @@
 			"SurvivorOfferings": [
 				0,
 				2,
-				5,
-				6
+				5
 			],
 			"KillerOfferings": [
-				5
+				8
 			]
 		},
 		{
@@ -1224,11 +1224,10 @@
 			"SurvivorOfferings": [
 				0,
 				2,
-				5,
-				6
+				5
 			],
 			"KillerOfferings": [
-				5
+				8
 			]
 		},
 		{
@@ -1313,11 +1312,10 @@
 			"SurvivorOfferings": [
 				0,
 				2,
-				5,
-				6
+				5
 			],
 			"KillerOfferings": [
-				5
+				8
 			]
 		},
 		{
@@ -1410,11 +1408,10 @@
 			},
 			"SurvivorOfferings": [
 				0,
-				5,
-				6
+				5
 			],
 			"KillerOfferings": [
-				5
+				8
 			]
 		},
 		{
@@ -1505,16 +1502,15 @@
 			"SurvivorOfferings": [
 				0,
 				2,
-				5,
-				6
+				5
 			],
 			"KillerOfferings": [
-				5
+				8
 			]
 		},
 		{
 			"Name": "The Spirit",
-			"KillerNotes": "Required 2x Vigo's Shroud offerings.",
+			"KillerNotes": "",
 			"IsDisabled": false,
 			"Map": [
 				"0"
@@ -1596,10 +1592,11 @@
 			"SurvivorOfferings": [
 				0,
 				2,
-				5
+				5,
+				6
 			],
 			"KillerOfferings": [
-				5
+				8
 			]
 		},
 		{
@@ -1684,11 +1681,10 @@
 			"SurvivorOfferings": [
 				0,
 				2,
-				5,
-				6
+				5
 			],
 			"KillerOfferings": [
-				5
+				8
 			]
 		},
 		{
@@ -1777,11 +1773,10 @@
 			"SurvivorOfferings": [
 				0,
 				2,
-				5,
-				6
+				5
 			],
 			"KillerOfferings": [
-				5
+				8
 			]
 		},
 		{
@@ -1865,11 +1860,10 @@
 			},
 			"SurvivorOfferings": [
 				0,
-				5,
-				6
+				5
 			],
 			"KillerOfferings": [
-				5
+				8
 			]
 		},
 		{
@@ -1954,11 +1948,10 @@
 			"SurvivorOfferings": [
 				0,
 				2,
-				5,
-				6
+				5
 			],
 			"KillerOfferings": [
-				5
+				8
 			]
 		},
 		{
@@ -2053,11 +2046,10 @@
 			"SurvivorOfferings": [
 				0,
 				2,
-				5,
-				6
+				5
 			],
 			"KillerOfferings": [
-				5
+				8
 			]
 		},
 		{
@@ -2138,16 +2130,15 @@
 			"SurvivorOfferings": [
 				0,
 				2,
-				5,
-				6
+				5
 			],
 			"KillerOfferings": [
-				5
+				8
 			]
 		},
 		{
 			"Name": "The Executioner",
-			"KillerNotes": "2x Killer",
+			"KillerNotes": "",
 			"IsDisabled": false,
 			"Map": [
 				"5"
@@ -2223,16 +2214,15 @@
 			"SurvivorOfferings": [
 				0,
 				2,
-				5,
-				6
+				5
 			],
 			"KillerOfferings": [
-				5
+				8
 			]
 		},
 		{
 			"Name": "The Blight",
-			"KillerNotes": "Required 2x Vigo's Shroud offerings.",
+			"KillerNotes": "",
 			"IsDisabled": false,
 			"Map": [
 				"46"
@@ -2322,7 +2312,8 @@
 			"SurvivorOfferings": [
 				0,
 				2,
-				5
+				5,
+				6
 			],
 			"KillerOfferings": [
 				5
@@ -2415,7 +2406,7 @@
 				5
 			],
 			"KillerOfferings": [
-				5
+				8
 			]
 		},
 		{
@@ -2500,11 +2491,10 @@
 			"SurvivorOfferings": [
 				0,
 				2,
-				5,
-				6
+				5
 			],
 			"KillerOfferings": [
-				5
+				8
 			]
 		},
 		{
@@ -2585,10 +2575,11 @@
 			"SurvivorOfferings": [
 				0,
 				2,
-				5,
-				6
+				5
 			],
-			"KillerOfferings": []
+			"KillerOfferings": [
+				8
+			]
 		},
 		{
 			"Name": "The Cenobite",
@@ -2676,11 +2667,10 @@
 			"SurvivorOfferings": [
 				0,
 				2,
-				5,
-				6
+				5
 			],
 			"KillerOfferings": [
-				5
+				8
 			]
 		},
 		{
@@ -2764,11 +2754,10 @@
 			"SurvivorOfferings": [
 				0,
 				2,
-				5,
-				6
+				5
 			],
 			"KillerOfferings": [
-				5
+				8
 			]
 		},
 		{
@@ -2861,11 +2850,10 @@
 			"SurvivorOfferings": [
 				0,
 				3,
-				5,
-				6
+				5
 			],
 			"KillerOfferings": [
-				5
+				8
 			]
 		},
 		{
@@ -2961,11 +2949,10 @@
 			"SurvivorOfferings": [
 				0,
 				2,
-				5,
-				6
+				5
 			],
 			"KillerOfferings": [
-				5
+				8
 			]
 		},
 		{
@@ -3047,8 +3034,7 @@
 			"SurvivorOfferings": [
 				0,
 				2,
-				5,
-				6
+				5
 			],
 			"KillerOfferings": [
 				5
@@ -3136,11 +3122,10 @@
 			"SurvivorOfferings": [
 				0,
 				2,
-				5,
-				6
+				5
 			],
 			"KillerOfferings": [
-				5
+				8
 			]
 		},
 		{
@@ -3226,11 +3211,10 @@
 			"SurvivorOfferings": [
 				0,
 				2,
-				5,
-				6
+				5
 			],
 			"KillerOfferings": [
-				5
+				8
 			]
 		},
 		{
@@ -3308,11 +3292,10 @@
 			"SurvivorOfferings": [
 				0,
 				2,
-				5,
-				6
+				5
 			],
 			"KillerOfferings": [
-				5
+				8
 			]
 		},
 		{
@@ -3397,11 +3380,10 @@
 			"SurvivorOfferings": [
 				0,
 				2,
-				5,
-				6
+				5
 			],
 			"KillerOfferings": [
-				5
+				8
 			]
 		},
 		{
@@ -3494,11 +3476,10 @@
 			"SurvivorOfferings": [
 				0,
 				2,
-				5,
-				6
+				5
 			],
 			"KillerOfferings": [
-				5
+				8
 			]
 		},
 		{
@@ -3581,11 +3562,10 @@
 			"SurvivorOfferings": [
 				0,
 				2,
-				5,
-				6
+				5
 			],
 			"KillerOfferings": [
-				5
+				8
 			]
 		},
 		{
@@ -3678,17 +3658,16 @@
 			"SurvivorOfferings": [
 				0,
 				2,
-				5,
-				6
+				5
 			],
 			"KillerOfferings": [
-				5
+				8
 			]
 		},
 		{
 			"Name": "The Dark Lord",
 			"KillerNotes": "",
-			"IsDisabled": false,
+			"IsDisabled": true,
 			"Map": [
 				0
 			],
@@ -3736,7 +3715,7 @@
 		{
 			"Name": "The Houndmaster",
 			"KillerNotes": "",
-			"IsDisabled": false,
+			"IsDisabled": true,
 			"Map": [
 				0
 			],
@@ -3784,7 +3763,7 @@
 		{
 			"Name": "The Ghoul",
 			"KillerNotes": "",
-			"IsDisabled": false,
+			"IsDisabled": true,
 			"Map": [
 				0
 			],
@@ -3832,7 +3811,7 @@
 		{
 			"Name": "The Animatronic",
 			"KillerNotes": "",
-			"IsDisabled": false,
+			"IsDisabled": true,
 			"Map": [
 				0
 			],
